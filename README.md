@@ -7,7 +7,8 @@ Line added by Fork
 Another line added in the original Repo
 This new line brings it ahead of the Fork that was made
 
-![Cleanflight](docs/assets/cleanflight/cleanflight-logo-light-wide-1-240px.jpg)
+![hello-world](IMG_6318.bmp)
+
 
 This fork differs from baseflight in that it attempts to use modern software development practices which result in:
 
